@@ -22,5 +22,5 @@ Check out the following concepts to get started with contributing to open source
 
 Check out the step-by-step guide to contributing to this project:
 
-- [Guide (English)](guide-en.md)
-- [Guide (Korean)](guide-kr.md)
+- [Guide (English)](guides/guide-en.md)
+- [Guide (Korean)](guides/guide-kr.md)
